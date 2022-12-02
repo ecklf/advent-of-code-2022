@@ -1,6 +1,6 @@
-# Advent of Code 2021
+# Advent of Code 2022
 
-Advent of Code[^aoc] 2021 challenges
+Advent of Code[^aoc] 2022 challenges
 
 ## Benchmarks
 
