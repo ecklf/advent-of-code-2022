@@ -58,9 +58,5 @@ pub fn part_one(assignments: &[Assignment]) -> i32 {
 
 #[aoc(day4, part2)]
 pub fn part_two(assignments: &[Assignment]) -> i32 {
-    assignments
-        .iter()
-        .filter(|a| a.has_overlap())
-        // .collect::<Vec<_>>();
-        .count() as i32
+    assignments.iter().filter(|a| a.has_overlap()).count() as i32
 }
